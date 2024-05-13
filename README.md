@@ -5,7 +5,7 @@
  [https://znh339.github.io/plugins/notrailer.js](https://znh339.github.io/plugins/notrailer.js)
   
   Автор: [epsill](https://github.com/epsill) 
-  Плагин: [https://epsill.github.io/plugins/notrailer.js](https://epsill.github.io/plugins/notrailer.js)
+  Плагин: [https://epsill.github.io/plugins/notrailer.js](https://github.com/znh339/lampa_plugins_epsill/blob/main/notrailer.js)
 
 * Отключение предложений подключения Cub Premium:
  [https://znh339.github.io/plugins/cub_off.js](https://znh339.github.io/plugins/cub_off.js)
