@@ -13,5 +13,5 @@
   Автор: [bylampa](https://github.com/bylampa)
   Плагин: [https://github.com/bylampa/bylampa.github.io/blob/main/cub_off.js](https://bylampa.github.io/cub_off.js)
 
-  https://bylampa.github.io/cub_off.js
+  
   
