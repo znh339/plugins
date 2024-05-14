@@ -28,7 +28,6 @@
   Автор: [bylampa](https://github.com/bylampa)
   Плагин: [https://bylampa.github.io/source.js](https://github.com/bylampa/bylampa.github.io/blob/main/source.js)
 
-  
   ### Эти плагины можно подключить из репозитория
    [https://znh339.github.io/plugins/store.js](https://znh339.github.io/plugins/store.js)
   
