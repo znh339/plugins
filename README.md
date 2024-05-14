@@ -29,7 +29,7 @@
   Плагин: [https://bylampa.github.io/source.js](https://github.com/bylampa/bylampa.github.io/blob/main/source.js)
 
   
-  ### Эти плагины скоро можно будет подключить из репозитория
+  ### Эти плагины можно подключить из репозитория
    [https://znh339.github.io/plugins/store.js](https://znh339.github.io/plugins/store.js)
   
 
