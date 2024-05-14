@@ -22,7 +22,7 @@
   Плагин: [https://andreyurl54.github.io/diesel5/tricks.js](https://github.com/andreyurl54/diesel5/blob/main/tricks.js)
 
 
-  ### Плагины можно подключить из репозитория
+  ### Эти плагины скоро можно будет подключить из репозитория
    [https://znh339.github.io/plugins/store.js](https://znh339.github.io/plugins/store.js)
   
 
