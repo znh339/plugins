@@ -2,13 +2,20 @@
   "secuses": true,
   "results": [
     {
-      "title": "Обязательные",
+      "title": "Обязательные для установки :-)",
       "results": [
         {
 		  "name": "Cub OFF",
 		  "author": "@bylampa",
 		  "link": "https://znh339.github.io/plugins/cub_off.js",
 		  "descr": "Отключение предложений подключения Cub Premium",
+		  "available_lampa": 1
+		},
+	{
+		  "name": "Showy",
+		  "author": "Showy",
+		  "link": "http://showy.online/m.js",
+		  "descr": "Онлайн, поддержка 4к",
 		  "available_lampa": 1
 		},
         {
