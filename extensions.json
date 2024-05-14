@@ -2,13 +2,13 @@
   "secuses": true,
   "results": [
     {
-      "title": "Популярные",
+      "title": "Обязательные",
       "results": [
         {
-		  "name": "Онлайн Мод",
-		  "author": "@t_anton",
-		  "link": "https://nb557.github.io/plugins/online_mod.js",
-		  "descr": "Фильмы и сериалы в онлайн, больше 10 балансеров для просмотра.",
+		  "name": "Cub OFF",
+		  "author": "@bylampa",
+		  "link": "https://znh339.github.io/plugins/cub_off.js",
+		  "descr": "Отключение предложений подключения Cub Premium",
 		  "available_lampa": 1
 		},
         {
