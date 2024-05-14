@@ -13,5 +13,12 @@
   Автор: [bylampa](https://github.com/bylampa)
   Плагин: [https://bylampa.github.io/cub_off.js](https://github.com/bylampa/bylampa.github.io/blob/main/cub_off.js)
 
+* Приятные мелочи:
+ [https://znh339.github.io/plugins/tricks.js](https://znh339.github.io/plugins/tricks.js)
+  
+  Автор: [andreyurl54](https://github.com/andreyurl54)
+  Плагин: [https://andreyurl54.github.io/diesel5/tricks.js](https://github.com/andreyurl54/diesel5/blob/main/tricks.js)
+  
+
   
   
