@@ -25,7 +25,14 @@
 		  "descr": "Добавляются Кинопоиск и Filmix",
 		  "available_lampa": 1
 		},
-	      {
+	{
+		  "name": "Добавить вкладку Кинопоиск",
+		  "author": "@k03mad",
+		  "link": "https://znh339.github.io/plugins/add-kp.js",
+		  "descr": "В главное меню перед вкладой Каталог добавляется Кинопоиск",
+		  "available_lampa": 1
+		},
+	{
 		  "name": "Showy",
 		  "author": "Showy",
 		  "link": "http://showy.online/m.js",
