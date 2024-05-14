@@ -13,12 +13,19 @@
 		},
 	{
 		  "name": "Отключение трейлеров",
-		  "author": "epsill",
+		  "author": "@epsill",
 		  "link": "https://znh339.github.io/plugins/notrailer.js",
 		  "descr": "Отключает трейлеры",
 		  "available_lampa": 1
 		},
 	{
+		  "name": "Дополнительные источники",
+		  "author": "@bylampa",
+		  "link": "https://znh339.github.io/plugins/source.js",
+		  "descr": "Добавляются Кинопоиск и Filmix",
+		  "available_lampa": 1
+		},
+	      {
 		  "name": "Showy",
 		  "author": "Showy",
 		  "link": "http://showy.online/m.js",
