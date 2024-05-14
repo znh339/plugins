@@ -28,7 +28,7 @@
   Автор: [bylampa](https://github.com/bylampa)
   Плагин: [https://bylampa.github.io/source.js](https://github.com/bylampa/bylampa.github.io/blob/main/source.js)
 
-* Добавить вкладку Кинопоиск.В главное меню перед вкладки Каталог добавляется Кинопоиск:
+* Добавить вкладку Кинопоиск.В главное меню перед вкладкой Каталог добавляется Кинопоиск:
  [https://znh339.github.io/plugins/add-kp.js](https://znh339.github.io/plugins/add-kp.js)
   
   Автор: [k03mad](https://github.com/k03mad)
