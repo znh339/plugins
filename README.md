@@ -23,10 +23,10 @@
 
 
 * Дополнительные источники. Добавляются Кинопоиск и Filmix:
- [https://znh339.github.io/plugins/sorce.js](https://znh339.github.io/plugins/sorce.js)
+ [https://znh339.github.io/plugins/source.js](https://znh339.github.io/plugins/source.js)
   
   Автор: [bylampa](https://github.com/bylampa)
-  Плагин: [https://bylampa.github.io/sorce.js](https://github.com/bylampa/bylampa.github.io/blob/main/sorce.js)
+  Плагин: [https://bylampa.github.io/source.js](https://github.com/bylampa/bylampa.github.io/blob/main/source.js)
 
   
   ### Эти плагины скоро можно будет подключить из репозитория
