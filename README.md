@@ -28,6 +28,12 @@
   Автор: [bylampa](https://github.com/bylampa)
   Плагин: [https://bylampa.github.io/source.js](https://github.com/bylampa/bylampa.github.io/blob/main/source.js)
 
+* Добавить вкладку Кинопоиск.В главное меню перед вкладки Каталог добавляется Кинопоиск:
+ [https://znh339.github.io/plugins/add-kp.js](https://znh339.github.io/plugins/add-kp.js)
+  
+  Автор: [k03mad](https://github.com/k03mad)
+  Плагин: [https://k03mad.github.io/lampa/plugins/add-kp.js](https://github.com/k03mad/lampa/blob/master/plugins/add-kp.js)
+
   ### Эти плагины можно подключить из репозитория
    [https://znh339.github.io/plugins/store.js](https://znh339.github.io/plugins/store.js)
   
