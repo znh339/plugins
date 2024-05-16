@@ -56,6 +56,30 @@
       ],
       "hpu": "best"
     },
+	      {
+      "title": "Плагины k03mad",
+      "results": [
+        {
+          "name": "Добавить Мультфильмы в главное меню и расположить вместе с Аниме после Сериалов",
+          "author": "https://github.com/k03mad/lampa",
+          "link": "https://k03mad.github.io/lampa/plugins/add-mult.js",
+          "available_lampa": 1
+        },
+        {
+          "name": "Добавить Кинопоиск в главное меню и расположить перед Каталогом",
+          "descr": "Не зависит от текущего источника по умолчанию, отображается всегда. Работает только вместе с плагином, добавляющим сам Кинопоиск как источник: https://nb557.github.io/plugins/kp_source.js",
+          "author": "https://github.com/k03mad/lampa",
+          "link": "https://k03mad.github.io/lampa/plugins/add-kp.js",
+          "available_lampa": 1
+        },
+        {
+          "name": "Скрывает почти все дефолтные иконки из верхнего тулбара, кроме поиска и уведомлений",
+          "author": "https://github.com/k03mad/lampa",
+          "link": "https://k03mad.github.io/lampa/plugins/hide-icons.js",
+          "available_lampa": 1
+        }
+      ]
+    },
     {
       "title": "Видео",
       "results": [
