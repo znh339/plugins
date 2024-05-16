@@ -1,5 +1,5 @@
 #      Lampa plugins repo
-### Сборник плагинов для Lampa
+## Сборник плагинов для Lampa
 
 * Отключение трейлеров:
  [https://znh339.github.io/plugins/notrailer.js](https://znh339.github.io/plugins/notrailer.js)
@@ -34,7 +34,7 @@
   Автор: [k03mad](https://github.com/k03mad)
   Плагин: [https://k03mad.github.io/lampa/plugins/add-kp.js](https://github.com/k03mad/lampa/blob/master/plugins/add-kp.js)
 
-  ### Эти плагины можно подключить из репозитория
+  ## Эти плагины можно подключить из репозитория
 
    [https://znh339.github.io/plugins/store.js](https://znh339.github.io/plugins/store.js)
   
