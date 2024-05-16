@@ -34,7 +34,7 @@
   Автор: [k03mad](https://github.com/k03mad)
   Плагин: [https://k03mad.github.io/lampa/plugins/add-kp.js](https://github.com/k03mad/lampa/blob/master/plugins/add-kp.js)
 
-  ## Эти плагины можно подключить из репозитория
+  ## Эти (и другие) плагины можно подключить из репозитория:
 
    [https://znh339.github.io/plugins/store.js](https://znh339.github.io/plugins/store.js)
   
