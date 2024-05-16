@@ -36,6 +36,7 @@
 
   ### Эти плагины можно подключить из репозитория
    [https://znh339.github.io/plugins/store.js](https://znh339.github.io/plugins/store.js)
+   [https://znh339.github.io/plugins/add_store.js](https://znh339.github.io/plugins/add_store.js)
   
 
   
