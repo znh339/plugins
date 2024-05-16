@@ -38,6 +38,5 @@
 
    [https://znh339.github.io/plugins/store.js](https://znh339.github.io/plugins/store.js)
   
-
-  
+## Сборник делался для себя и друзей. Обновления плагинов постараюсь отслеживать
   
