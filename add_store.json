@@ -1,0 +1,73 @@
+ "secuses": true,
+  "results": [
+    {
+      "title": "Обязательные для установки :-)",
+      "results": [
+        {
+		  "name": "Cub OFF",
+		  "author": "@bylampa",
+		  "link": "https://znh339.github.io/plugins/cub_off.js",
+		  "descr": "Отключение предложений подключения Cub Premium",
+		  "available_lampa": 1
+		},
+	{
+		  "name": "Отключение трейлеров",
+		  "author": "@epsill",
+		  "link": "https://znh339.github.io/plugins/notrailer.js",
+		  "descr": "Отключает трейлеры",
+		  "available_lampa": 1
+		},
+	{
+		  "name": "Дополнительные источники",
+		  "author": "@bylampa",
+		  "link": "https://znh339.github.io/plugins/source.js",
+		  "descr": "Добавляются Кинопоиск и Filmix",
+		  "available_lampa": 1
+		},
+	{
+		  "name": "Добавить вкладку Кинопоиск",
+		  "author": "@k03mad",
+		  "link": "https://znh339.github.io/plugins/add-kp.js",
+		  "descr": "В главное меню перед вкладой Каталог добавляется Кинопоиск",
+		  "available_lampa": 1
+		},
+    {
+          "name": "Добавить Мультфильмы в главное меню и расположить вместе с Аниме после Сериалов",
+          "author": "https://github.com/k03mad/lampa",
+          "link": "https://k03mad.github.io/lampa/plugins/add-mult.js",
+          "available_lampa": 1
+        },
+    {
+          "name": "Добавить Кинопоиск в главное меню и расположить перед Каталогом",
+          "descr": "Не зависит от текущего источника по умолчанию, отображается всегда. Работает только вместе с плагином, добавляющим сам Кинопоиск как источник: https://nb557.github.io/plugins/kp_source.js",
+          "author": "https://github.com/k03mad/lampa",
+          "link": "https://k03mad.github.io/lampa/plugins/add-kp.js",
+          "available_lampa": 1
+        },
+    {
+          "name": "Скрывает почти все дефолтные иконки из верхнего тулбара, кроме поиска и уведомлений",
+          "author": "https://github.com/k03mad/lampa",
+          "link": "https://k03mad.github.io/lampa/plugins/hide-icons.js",
+          "available_lampa": 1
+        }
+      ]
+    },
+    {
+      "title": "Сообщество",
+      "results": [
+        {
+          "name": "Альтернативный магазин плагинов",
+          "author": "https://github.com/lampaplugins/store",
+          "link": "https://lampaplugins.github.io/store/store.js",
+          "available_lampa": 1
+        },
+        {
+          "name": "Источник Кинопоиск",
+          "author": "https://github.com/nb557/plugins",
+          "link": "https://nb557.github.io/plugins/kp_source.js",
+          "available_lampa": 1
+        }
+      ]
+    }
+  ]
+}
