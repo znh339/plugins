@@ -35,7 +35,7 @@
   Плагин: [https://k03mad.github.io/lampa/plugins/add-kp.js](https://github.com/k03mad/lampa/blob/master/plugins/add-kp.js)
 
   ### Эти плагины можно подключить из репозитория
-   [https://znh339.github.io/plugins/store.js](https://znh339.github.io/plugins/store.js)
+
    [https://znh339.github.io/plugins/add_store.js](https://znh339.github.io/plugins/add_store.js)
   
 
