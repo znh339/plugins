@@ -32,6 +32,13 @@
 		  "descr": "В главное меню перед вкладой Каталог добавляется Кинопоиск",
 		  "available_lampa": 1
 		},
+        {
+          	"name": "Кинофраншиза от HDRezka",
+	  	"descr": "Серия связанных фильмов по версии HDRezka в карточке под описанием к фильму.Поиск сразу из карточки",
+          	"author": "@BDVBurik",
+          	"link": "https://znh339.github.io/plugins/franshrezka.js",
+          	"available_lampa": 1
+      		},
 	{
 		  "name": "Showy",
 		  "author": "Showy",
