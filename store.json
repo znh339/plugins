@@ -261,8 +261,10 @@
 		  "descr": "Плагин отключает протокол Websocket, помогает при ошибках на некоторых устройствах",
 		  "available_lampa": 1
 		}
-      ]
-	    {
+      ],
+      "hpu": "BDVBurik"
+    },
+	      {
       "title": "Плагины BDVBurik",
       "results": [
         {
