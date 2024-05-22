@@ -40,6 +40,13 @@
           	"available_lampa": 1
       		},
 	{
+	          "name": "Отзывы с HDRezka",
+		  "descr": "Без спойлеров. Для фильмов от Start возникает ошибка",
+    		  "author": "@BDVBurik",
+    		  "link": "https://znh339.github.io/plugins/rezkacommentwo.js",
+   	  	  "available_lampa": 1
+      		},
+	{
 		  "name": "Showy",
 		  "author": "Showy",
 		  "link": "http://showy.online/m.js",
