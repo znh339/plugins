@@ -248,6 +248,32 @@
 		  "available_lampa": 1
 		}
       ],
+	    	      {
+      "title": "Плагины BDVBurik",
+      "results": [
+        {
+          "name": "Отзывы с HDRezka",
+	  "descr": "Без спойлеров. Для фильмов от Start возникает ошибка",
+          "author": "https://github.com/BDVBurik/BDVBurik.github.io",
+          "link": "https://bdvburik.github.io/rezkacommentwo.js",
+          "available_lampa": 1
+        },
+        {
+          "name": "Отзывы с HDRezka",
+	  "descr": "Со спойлерами. Для фильмов от Start возникает ошибка",
+          "author": "https://github.com/BDVBurik/BDVBurik.github.io",
+          "link": "https://BDVBurik.github.io/rezkacomment.js",
+          "available_lampa": 1
+        },
+        {
+          "name": "Кинофраншиза от HDRezka",
+	  "descr": "Серия связанных фильмов по версии HDRezka",
+          "author": "https://github.com/BDVBurik/BDVBurik.github.io",
+          "link": "https://bdvburik.github.io/franshrezka.js",
+          "available_lampa": 1
+        }
+      ]
+    },
       "hpu": "other"
     }
   ]
