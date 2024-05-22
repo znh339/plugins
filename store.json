@@ -267,14 +267,14 @@
         },
         {
           "name": "Кинофраншиза от HDRezka",
-	  "descr": "Серия связанных фильмов по версии HDRezka",
+	  "descr": "Серия связанных фильмов по версии HDRezka в карточке под описанием к фильму.Поиск сразу из карточки",
           "author": "https://github.com/BDVBurik/BDVBurik.github.io",
           "link": "https://bdvburik.github.io/franshrezka.js",
           "available_lampa": 1
         },
         {
           "name": "Кинофраншиза от HDRezka. Вариант?",
-	  "descr": "Серия связанных фильмов по версии HDRezka",
+	  "descr": "Серия связанных фильмов по версии HDRezka в карточке под описанием к фильму.Поиск сразу из карточки",
           "author": "https://github.com/BDVBurik/BDVBurik.github.io",
           "link": "https://bdvburik.github.io/rezkarezkafranchise.js",
           "available_lampa": 1
