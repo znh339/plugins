@@ -34,14 +34,14 @@
 		},
         {
           	"name": "Кинофраншиза от HDRezka",
-	  	"descr": "Серия связанных фильмов по версии HDRezka в карточке под описанием к фильму.Поиск сразу из карточки",
+	  	"descr": "Серия связанных фильмов по версии HDRezka в карточке под описанием к фильму.Поиск сразу из карточки.  Для фильмов от Start возникает ошибка",
           	"author": "@BDVBurik",
           	"link": "https://znh339.github.io/plugins/franshrezka.js",
           	"available_lampa": 1
       		},
 	{
 	          "name": "Отзывы с HDRezka",
-		  "descr": "Без спойлеров. Для фильмов от Start возникает ошибка",
+		  "descr": "Без спойлеров",
     		  "author": "@BDVBurik",
     		  "link": "https://znh339.github.io/plugins/rezkacommentwo.js",
    	  	  "available_lampa": 1
@@ -269,28 +269,28 @@
       "results": [
         {
           "name": "Отзывы с HDRezka",
-	  "descr": "Без спойлеров. Для фильмов от Start возникает ошибка",
+	  "descr": "Без спойлеров",
           "author": "https://github.com/BDVBurik/BDVBurik.github.io",
           "link": "https://bdvburik.github.io/rezkacommentwo.js",
           "available_lampa": 1
         },
         {
           "name": "Отзывы с HDRezka",
-	  "descr": "Со спойлерами. Для фильмов от Start возникает ошибка",
+	  "descr": "Со спойлерами",
           "author": "https://github.com/BDVBurik/BDVBurik.github.io",
           "link": "https://BDVBurik.github.io/rezkacomment.js",
           "available_lampa": 1
         },
         {
           "name": "Кинофраншиза от HDRezka",
-	  "descr": "Серия связанных фильмов по версии HDRezka в карточке под описанием к фильму.Поиск сразу из карточки",
+	  "descr": "Серия связанных фильмов по версии HDRezka в карточке под описанием к фильму.Поиск сразу из карточки.  Для фильмов от Start возникает ошибка",
           "author": "https://github.com/BDVBurik/BDVBurik.github.io",
           "link": "https://bdvburik.github.io/franshrezka.js",
           "available_lampa": 1
         },
         {
           "name": "Кинофраншиза от HDRezka. Вариант?",
-	  "descr": "Серия связанных фильмов по версии HDRezka в карточке под описанием к фильму.Поиск сразу из карточки",
+	  "descr": "Серия связанных фильмов по версии HDRezka в карточке под описанием к фильму.Поиск сразу из карточки.  Для фильмов от Start возникает ошибка",
           "author": "https://github.com/BDVBurik/BDVBurik.github.io",
           "link": "https://bdvburik.github.io/rezkarezkafranchise.js",
           "available_lampa": 1
