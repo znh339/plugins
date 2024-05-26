@@ -26,6 +26,13 @@
           "available_lampa": 1
         },
         {
+          "name": "Новые категории",
+          "author": "@bylampa",
+          "link": "https://znh339.github.io/plugins/newcategory.js",
+          "descr": "Добавляет новые категории в список, некоторые категории берутся только с TMDB",
+          "available_lampa": 1
+        },
+        {
           "name": "Добавить вкладку Кинопоиск",
           "author": "@k03mad",
           "link": "https://znh339.github.io/plugins/add-kp.js",
