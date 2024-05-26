@@ -27,7 +27,7 @@
         },
         {
           "name": "Новые категории",
-          "author": "@bylampa",
+          "author": "@lampame",
           "link": "https://znh339.github.io/plugins/newcategory.js",
           "descr": "Добавляет новые категории в список, некоторые категории берутся только с TMDB",
           "available_lampa": 1
