@@ -45,6 +45,13 @@
   
   Автор: [BDVBurik](https://github.com/BDVBurik)
   Плагин: [https://BDVBurik.github.io/franshrezka.js](https://github.com/BDVBurik/BDVBurik.github.io/blob/main/franshrezka.js)
+
+  * Кинофраншиза от HDRezka /в редакции andreyurl54/:
+ [https://znh339.github.io/plugins/franchise_and54.js](https://znh339.github.io/plugins/franchise_and54.js)
+  
+  Автор: [andreyurl54](https://github.com/andreyurl54)
+
+  
   ## Эти (и другие) плагины можно подключить из репозитория:
 
    [https://znh339.github.io/plugins/store.js](https://znh339.github.io/plugins/store.js)
