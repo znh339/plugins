@@ -19,6 +19,13 @@
           "available_lampa": 1
         },
         {
+          "name": "Отключение Родительского контроля",
+          "author": "@SSergA",
+          "link": "https://znh339.github.io/plugins/nocont.js",
+          "descr": "Отключение Родительского контроля",
+          "available_lampa": 1
+        },
+        {
           "name": "Дополнительные источники",
           "author": "@bylampa",
           "link": "https://znh339.github.io/plugins/source.js",
