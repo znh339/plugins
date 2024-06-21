@@ -56,6 +56,11 @@
   
   Автор: [bylampa](https://github.com/bylampa)
 
+* Отключение Родительского контроля:
+ [https://znh339.github.io/plugins/nocont.js](https://znh339.github.io/plugins/nocont.js)
+  
+  Автор: [SSergA](https://github.com/SSergA)
+
   ## Эти (и другие) плагины можно подключить из репозитория:
 
    [https://znh339.github.io/plugins/store.js](https://znh339.github.io/plugins/store.js)
