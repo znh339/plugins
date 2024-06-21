@@ -54,12 +54,20 @@
           "available_lampa": 1
         },
         {
-          "name": "Кинофраншиза от HDRezka",
+          "name": "Кинофраншиза от HDRezka /в редакции andreyurl54/.Увеличеный шрифт",
           "descr": "Серия связанных фильмов по версии HDRezka в карточке под описанием к фильму.Поиск сразу из карточки.  Для фильмов от Start возникает ошибка",
-          "author": "@BDVBurik",
-          "link": "https://znh339.github.io/plugins/franshrezka.js",
+          "author": "@andreyurl54",
+          "link": "https://znh339.github.io/plugins/franchise_and54.js",
           "available_lampa": 1
-        },        {
+        },
+        {
+          "name": "Кинофраншиза от HDRezka /в редакции bylampa/",
+          "descr": "Серия связанных фильмов по версии HDRezka в карточке под описанием к фильму.Поиск сразу из карточки.  Для фильмов от Start возникает ошибка",
+          "author": "@bylampa",
+          "link": "https://znh339.github.io/plugins/franchise_bylampa.js",
+          "available_lampa": 1
+        },
+        {
           "name": "Отзывы с HDRezka",
           "descr": "Без спойлеров",
           "author": "@BDVBurik",
