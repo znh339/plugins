@@ -46,16 +46,6 @@
   Автор: [BDVBurik](https://github.com/BDVBurik)
   Плагин: [https://BDVBurik.github.io/franshrezka.js](https://github.com/BDVBurik/BDVBurik.github.io/blob/main/franshrezka.js)
 
-* Кинофраншиза от HDRezka /в редакции andreyurl54/.Увеличеный шрифт:
- [https://znh339.github.io/plugins/franchise_and54.js](https://znh339.github.io/plugins/franchise_and54.js)
-  
-  Автор: [andreyurl54](https://github.com/andreyurl54)
-
-* Кинофраншиза от HDRezka /в редакции bylampa/:
- [https://znh339.github.io/plugins/franchise_bylampa.js](https://znh339.github.io/plugins/franchise_bylampa.js)
-  
-  Автор: [bylampa](https://github.com/bylampa)
-
 * Отключение Родительского контроля:
  [https://znh339.github.io/plugins/nocont.js](https://znh339.github.io/plugins/nocont.js)
   
