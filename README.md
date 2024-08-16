@@ -27,6 +27,11 @@
   Автор: [andreyurl54](https://github.com/andreyurl54)
   Плагин: [https://andreyurl54.github.io/diesel5/tricks.js](https://github.com/andreyurl54/diesel5/blob/main/tricks.js)
 
+* Приятные мелочи:
+ [https://znh339.github.io/plugins/menusort.js](https://znh339.github.io/plugins/menusort.js)
+  
+  Автор: [andreyurl54](https://github.com/andreyurl54)
+  Плагин: [http://193.233.134.21/plugins/menusort](http://193.233.134.21/plugins/menusort)
 
 * Дополнительные источники. Добавляются Кинопоиск и Filmix:
  [https://znh339.github.io/plugins/source.js](https://znh339.github.io/plugins/source.js)
