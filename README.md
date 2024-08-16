@@ -27,7 +27,7 @@
   Автор: [andreyurl54](https://github.com/andreyurl54)
   Плагин: [https://andreyurl54.github.io/diesel5/tricks.js](https://github.com/andreyurl54/diesel5/blob/main/tricks.js)
 
-* Приятные мелочи:
+* Сортировка меню:
  [https://znh339.github.io/plugins/menusort.js](https://znh339.github.io/plugins/menusort.js)
   
   Автор: [andreyurl54](https://github.com/andreyurl54)
