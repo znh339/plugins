@@ -75,6 +75,13 @@
           "available_lampa": 1
         },
         {
+          "name": "Account_old",
+          "descr": "Плагин позволяет, после авторизации в ТГ боте, синхронизировать свои данные между аккаунтами",
+          "author": "@bylampa",
+          "link": "https://znh339.github.io/plugins/account_old.js",
+          "available_lampa": 1
+        },
+        {
           "name": "Отзывы с HDRezka",
           "descr": "Без спойлеров",
           "author": "@BDVBurik",
