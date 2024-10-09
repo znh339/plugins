@@ -55,7 +55,7 @@
         },
         {
           "name": "Account",
-          "descr": "Плагин позволяет после авторизации в ТГ боте синхронизировать свои данные между аккаунтами",
+          "descr": "Плагин позволяет, после авторизации в ТГ боте, синхронизировать свои данные между аккаунтами",
           "author": "@bylampa",
           "link": "https://znh339.github.io/plugins/account.js",
           "available_lampa": 1
@@ -123,6 +123,12 @@
           "author": "@bwato",
           "link": "https://bwa.to/o",
           "descr": "Нужна поддержка WebAssembly и версия Chrome > 80",
+          "available_lampa": 1
+        },
+        {
+          "name": "Cinema",
+          "author": "@bylampa",
+          "link": "https://znh339.github.io/plugins/cinema.js",
           "available_lampa": 1
         },
         {
