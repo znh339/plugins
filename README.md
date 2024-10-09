@@ -14,7 +14,7 @@
   Автор: [bylampa](https://github.com/bylampa)
   Плагин: [https://bylampa.github.io/redirect.js](https://github.com/bylampa/bylampa.github.io/blob/main/redirect.js)
 
-  * Account:
+* Account:
  [https://znh339.github.io/plugins/account.js](https://znh339.github.io/plugins/account.js)
   
   Автор: [bylampa](https://github.com/bylampa)
