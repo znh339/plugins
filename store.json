@@ -19,6 +19,13 @@
           "available_lampa": 1
         },
         {
+          "name": "Русские новинки",
+          "author": "@bylampa",
+          "link": "https://znh339.github.io/plugins/rus_movie.js",
+          "descr": "Добавляет в левое меню закладку с новинками русских фильмов и сериалов",
+          "available_lampa": 1
+        },
+        {
           "name": "Отключение Родительского контроля",
           "author": "@SSergA",
           "link": "https://znh339.github.io/plugins/nocont.js",
