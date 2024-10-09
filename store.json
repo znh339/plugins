@@ -54,10 +54,10 @@
           "available_lampa": 1
         },
         {
-          "name": "Кинофраншиза от HDRezka",
-          "descr": "Серия связанных фильмов по версии HDRezka в карточке под описанием к фильму.Поиск сразу из карточки.  Для фильмов от Start возникает ошибка",
-          "author": "@BDVBurik",
-          "link": "https://znh339.github.io/plugins/franshrezka.js",
+          "name": "Account",
+          "descr": "Плагин позволяет после авторизации в ТГ боте синхронизировать свои данные между аккаунтами",
+          "author": "@bylampa",
+          "link": "https://znh339.github.io/plugins/account.js",
           "available_lampa": 1
         },
         {
