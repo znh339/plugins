@@ -26,6 +26,13 @@
           "available_lampa": 1
         },
         {
+          "name": "В качестве",
+          "author": "@bylampa",
+          "link": "https://znh339.github.io/plugins/in_quality.js",
+          "descr": "Добавляет в левое меню закладку с новинками в качестве",
+          "available_lampa": 1
+        },
+        {
           "name": "Отключение Родительского контроля",
           "author": "@SSergA",
           "link": "https://znh339.github.io/plugins/nocont.js",
