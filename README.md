@@ -46,12 +46,6 @@
   Автор: [k03mad](https://github.com/k03mad)
   Плагин: [https://k03mad.github.io/lampa/plugins/add-kp.js](https://github.com/k03mad/lampa/blob/master/plugins/add-kp.js)
 
-* Кинофраншиза от HDRezka:
- [https://znh339.github.io/plugins/franshrezka.js](https://znh339.github.io/plugins/franshrezka.js)
-  
-  Автор: [BDVBurik](https://github.com/BDVBurik)
-  Плагин: [https://BDVBurik.github.io/franshrezka.js](https://github.com/BDVBurik/BDVBurik.github.io/blob/main/franshrezka.js)
-
 * Отключение Родительского контроля:
  [https://znh339.github.io/plugins/nocont.js](https://znh339.github.io/plugins/nocont.js)
   
