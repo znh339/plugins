@@ -187,6 +187,13 @@
           "available_lampa": 1
         },
         {
+          "name": "Авторизация Кинопоиск",
+          "author": "@and7ey",
+          "link": "https://and7ey.github.io/lampa/kinopoisk.js",
+          "descr": "Добавляет Избранное Кинопоиск", 
+          "available_lampa": 1
+        },
+        {
           "name": "Тип управления",
           "author": "@nemiroff",
           "link": "https://nemiroff.github.io/lampa/select_weapon.js",
