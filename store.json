@@ -177,14 +177,14 @@
           "author": "@lme",
           "link": "https://lampame.github.io/main/pubtorr.js",
           "descr": "Сборник публичных парсеров отображением статуса доступности",
-          "available_lampa": 0
+          "available_lampa": 1
         },
         {
           "name": "Настройка меню",
           "author": "@AndreyUrl54",
           "link": "http://193.233.134.21/plugins/menusort",
           "descr": "", 
-          "available_lampa": 0
+          "available_lampa": 1
         },
         {
           "name": "Тип управления",
