@@ -180,6 +180,13 @@
           "available_lampa": 0
         },
         {
+          "name": "Настройка меню",
+          "author": "@AndreyUrl54",
+          "link": "http://193.233.134.21/plugins/menusort",
+          "descr": "", 
+          "available_lampa": 0
+        },
+        {
           "name": "Тип управления",
           "author": "@nemiroff",
           "link": "https://nemiroff.github.io/lampa/select_weapon.js",
