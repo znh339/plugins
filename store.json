@@ -173,6 +173,13 @@
           "available_lampa": 1
         },
         {
+          "name": "Выбор источника онлайн поумолчанию",
+          "author": "@Red Cat",
+          "link": "https://lampastore.github.io/ux.js",
+          "descr": " ",
+          "available_lampa": 1
+        },
+        {
           "name": "Публичные парсеры",
           "author": "@lme",
           "link": "https://lampame.github.io/main/pubtorr.js",
