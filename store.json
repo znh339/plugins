@@ -60,6 +60,13 @@
           "descr": "В главное меню перед вкладой Каталог добавляется Кинопоиск",
           "available_lampa": 1
         },
+         {
+          "name": "Логотипы",
+          "author": "@elenatv99",
+          "link": "https://znh339.github.io/plugins/logo.js",
+          "descr": "Отображает логотипы фильмов вместо названия",
+          "available_lampa": 1
+        },
         {
           "name": "Приятные мелочи",
           "author": "@andreyurl54",
@@ -280,6 +287,13 @@
           "author": "@elenatv99",
           "link": "https://lampaplugins.github.io/store/record.js",
           "descr": "Радио Рекорд + Радио Вера)))",
+          "available_lampa": 1
+        },
+        {
+          "name": "Логотипы",
+          "author": "@elenatv99",
+          "link": "https://lampaplugins.github.io/store/logo.js",
+          "descr": "Отображает логотипы фильмов вместо названия",
           "available_lampa": 1
         },
         {
