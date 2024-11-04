@@ -54,6 +54,13 @@
           "available_lampa": 1
         },
         {
+          "name": "Концерты",
+          "author": "@lampame",
+          "link": "https://znh339.github.io/plugins/cts.js",
+          "descr": "Добавляет концертное видео",
+          "available_lampa": 1
+        },
+        {
           "name": "Добавить вкладку Кинопоиск",
           "author": "@k03mad",
           "link": "https://znh339.github.io/plugins/add-kp.js",
